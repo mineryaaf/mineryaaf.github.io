@@ -232,5 +232,18 @@
             "r": "0x84c1c927930edbd5422c179a3d22e4b9d99310e0bac981d178dc4d17b629a432",
             "s": "0x7ef00a86cb9103b6e5aeeb78ab621877547eb9c7d1180ea764c9c5f12d3d0237"
         }
+    },
+    {
+        "coupon": {
+            "id": "0x42Eb7119bdCEbB14d688Cd4997249Cf984bBa16F",
+            "address": "0x42Eb7119bdCEbB14d688Cd4997249Cf984bBa16F",
+            "amount": "5000000000000000000",
+            "payment": "1000000000000000000"
+        },
+        "sig": {
+            "v": 27,
+            "r": "0x6c10bf103d6e7aa9fcb6a5a083f825c6b828401d0ed69ebe4aa60a2d80235944",
+            "s": "0x0f8a56790ec475cf7511ee71594c4b015624e82af66b1cc5d26bcf0599ab458b"
+        }
     }
 ]
