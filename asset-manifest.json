@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4cc3d523.css",
-    "main.js": "/static/js/main.dbf7ff77.js",
+    "main.js": "/static/js/main.984d74b4.js",
     "static/js/787.7a08eaac.chunk.js": "/static/js/787.7a08eaac.chunk.js",
     "static/media/moon.png": "/static/media/moon.8d3ff023c0c7797c5985.png",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/team_2.png": "/static/media/team_2.cd513adad6dcfd345d20.png",
-    "static/media/team_1.png": "/static/media/team_1.a3888657c6a08e92c2bb.png",
+    "static/media/team_1.png": "/static/media/team_1.cd513adad6dcfd345d20.png",
+    "static/media/team_3.png": "/static/media/team_3.a3888657c6a08e92c2bb.png",
     "static/media/blue_cartoon.png": "/static/media/blue_cartoon.758b04b9aea5424c2e10.png",
-    "static/media/team_3.png": "/static/media/team_3.313de6c509af24f11c0d.png",
+    "static/media/team_2.png": "/static/media/team_2.313de6c509af24f11c0d.png",
     "static/media/yaaf_model.png": "/static/media/yaaf_model.8bb95201ebf6b56fa8b6.png",
     "static/media/yaaf.png": "/static/media/yaaf.f933e3265b9478dd50bb.png",
     "static/media/gift_card.png": "/static/media/gift_card.61289e29401b61961ce7.png",
@@ -17,11 +17,11 @@
     "static/media/copy_icon.svg": "/static/media/copy_icon.fffe8953e307852c932316ae52c15e87.svg",
     "index.html": "/index.html",
     "main.4cc3d523.css.map": "/static/css/main.4cc3d523.css.map",
-    "main.dbf7ff77.js.map": "/static/js/main.dbf7ff77.js.map",
+    "main.984d74b4.js.map": "/static/js/main.984d74b4.js.map",
     "787.7a08eaac.chunk.js.map": "/static/js/787.7a08eaac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc3d523.css",
-    "static/js/main.dbf7ff77.js"
+    "static/js/main.984d74b4.js"
   ]
 }
