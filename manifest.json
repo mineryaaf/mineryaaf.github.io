@@ -1,6 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "YAAF-Miner App",
+  "description": "YAAF-Miner App",
+  "iconPath": "logoyaaf192.png",
+  "short_name": "YAAF-Miner App",
+  "start_url": ".",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +11,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logoyaaf192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "logoyaaf512.png",
       "type": "image/png",
       "sizes": "512x512"
     }

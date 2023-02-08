@@ -682,6 +682,7 @@ html {
 @-ms-viewport {
   width: device-width;
 }
+
 body {
   margin: 0;
   color: rgba(255, 255, 255, 0.85);
@@ -690,7 +691,7 @@ body {
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-variant: tabular-nums;
   line-height: 1.5715;
-  background-color: #212121;
+  background-color: #01090e;
   font-feature-settings: "tnum";
 }
 [tabindex="-1"]:focus {
