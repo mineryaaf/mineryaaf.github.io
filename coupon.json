@@ -54,5 +54,19 @@
             "r": "0x27d62e737b2481dc4d5ef2ae59a6e302219afaa2ba036c154a1f4178f5d43c3a",
             "s": "0x53cee6d78fce73a19ebf1c55f334f2216581a954693e9d2d69be34f590fa87f9"
         }
+    },
+    {
+        "coupon": {
+            "id": "0xC2bdcf1f00a99f0156698f8B25B1535E1819db00",
+            "address": "0xC2bdcf1f00a99f0156698f8B25B1535E1819db00",
+            "amount": "5000000000000000000",
+            "payment": "1000000000000000000",
+            "refAddress": "0x534bBC77Fc3B58fD16dF0F577A984C2045B5eEA5"
+        },
+        "sig": {
+            "v": 27,
+            "r": "0x55451d7392ab78897df791346c0bd0191a136dc26be2d6d6ac40f09f058a8dc2",
+            "s": "0x6934c82b779018687b769a50bfb330a880cdd9cc4216312b224acc265974b899"
+        }
     }
 ]
